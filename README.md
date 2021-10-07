@@ -23,7 +23,7 @@
 
   ![그림입니다.원본 그림의 이름: CLP00004a900002.bmp원본 그림의 크기: 가로 395pixel, 세로 343pixel](./imgs_for_docs/unix2.jpg)  
 
-
+=> shell programming practice
 
 
 
@@ -44,6 +44,8 @@
 ### Recommand system
 
 ![tetris3](./imgs_for_docs/tetris3.jpg)
+
+=> Look up for 4 depth states and Recommand block position to put on.
 
 
 
@@ -67,9 +69,10 @@
 
 ![maze2](./imgs_for_docs/maze2.jpg)
 
-
+=> Read text a text file (rhs) and show on program.
 
 ### dfs vs bfs maze search
 
 ![maze3](./imgs_for_docs/maze3.jpg)
 
+=> Gray areas indicate visited locations. `dfs search` can give direction to navigation.
