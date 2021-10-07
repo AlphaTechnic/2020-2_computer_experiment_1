@@ -14,7 +14,9 @@
   - **Maze** Projects - week12, week13, week14
 
 
+ㅤ
 
+ㅤ
 
 
 ## **Unix** - week1, week2
@@ -25,7 +27,7 @@
 
 => shell programming practice
 
-
+ㅤ
 
 ## Tetris Projects - week6, week8, week9
 
@@ -33,13 +35,13 @@
 
 ![tetris1](./imgs_for_docs/tetris1.jpg)
 
-
+ㅤ
 
 ### Rank system
 
 ![tetris2](./imgs_for_docs/tetris2.jpg)
 
-
+ㅤ
 
 ### Recommand system
 
@@ -47,13 +49,15 @@
 
 => Look up for 4 depth states and Recommand block position to put on.
 
-
+ㅤ
 
 ## **Waterfall** Projects - week10, week11
 
 ![waterfall](./imgs_for_docs/waterfall.jpg)
 
+ㅤ
 
+ㅤ
 
 ## **Maze** Projects - week12, week13, week14
 
@@ -63,13 +67,15 @@
 
 ![maze1](./imgs_for_docs/maze1.jpg)
 
-
+ㅤ
 
 ### draw maze
 
 ![maze2](./imgs_for_docs/maze2.jpg)
 
-=> Read text a text file (rhs) and show on program.
+=> Read text a text file (rhs) and show on program (lhs).
+
+ㅤ
 
 ### dfs vs bfs maze search
 
