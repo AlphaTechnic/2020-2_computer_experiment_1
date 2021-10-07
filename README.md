@@ -27,7 +27,7 @@
 
 
 
-##**Tetris** Projects - week6, week8, week9
+## Tetris Projects - week6, week8, week9
 
 ### Basic operation 
 
