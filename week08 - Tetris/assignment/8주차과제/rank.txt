@@ -1,0 +1,6 @@
+5
+juho 430
+hyeonho 400
+juho 300
+mother 230
+father 200

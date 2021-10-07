@@ -1,0 +1,14 @@
+echo "working directory:"
+
+read path
+if [ -d $path ] && [ -x $path ] 
+then
+    cd $path
+    for i in *
+    do
+        name=`echo $i | tr '[a-z][A-Z]' '[A-Z][a-z]'`
+        mv $i $name
+    done
+else
+    echo "It is Not a Directory or you entered an Incorrect Path"
+fi

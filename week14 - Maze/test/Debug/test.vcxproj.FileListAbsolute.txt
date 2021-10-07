@@ -1,0 +1,2 @@
+C:\Users\juho3\Desktop\13주차 실습\test\Debug\test.exe
+C:\Users\juho3\Desktop\13주차 실습\test\Debug\test.pdb

@@ -1,0 +1,15 @@
+if [ $# != 0 ]
+then
+    re=$1
+    for arg in $*
+    do
+        re="$re|$arg"
+    done
+
+    re="$re"
+    egrep "$re" mydata | awk -f display.awk 
+
+else
+    echo "Usage: phone searchfor [...searchfor]
+    (You didn't tell me what you want to search for.)"
+fi
