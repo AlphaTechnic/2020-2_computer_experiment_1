@@ -21,7 +21,9 @@
 
 ## **Unix** - week1, week2
 
-  ![img](./imgs_for_docs/unix.jpg) 
+  
+
+![img](./imgs_for_docs/unix.jpg) 
 
   ![그림입니다.원본 그림의 이름: CLP00004a900002.bmp원본 그림의 크기: 가로 395pixel, 세로 343pixel](./imgs_for_docs/unix2.jpg)  
 
