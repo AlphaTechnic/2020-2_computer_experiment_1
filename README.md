@@ -83,4 +83,6 @@
 
 ![maze3](./imgs_for_docs/maze3.jpg)
 
-=> Gray areas indicate visited locations. `dfs search` can give direction to navigation.
+=> Gray areas indicate visited locations
+
+=> `dfs` search can be customized to provide **directionality**.
